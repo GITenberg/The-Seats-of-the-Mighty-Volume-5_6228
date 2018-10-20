@@ -1,5 +1,5 @@
 _repo: The-Seats-of-the-Mighty-Volume-5_6228
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Fiction'
 - !lcsh 'Canada -- History -- To 1763 (New France) -- Fiction'
+- GITenberg
 title: The Seats of the Mighty, Volume 5
 url: http://www.gutenberg.org/ebooks/6228
